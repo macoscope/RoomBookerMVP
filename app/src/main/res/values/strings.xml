@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">RoomBooker</string>
+    <string name="action_settings">Settings</string>
+    <!-- Event item view -->
+    <string name="summary">Summary: %s</string>
+    <string name="organizer">Organizer: %s</string>
+    <string name="start_date">Start date: %s</string>
+    <string name="end_date">End date: %s</string>
+    <string name="status">Status: %s</string>
+    <!-- Main Activity -->
+    <string name="main_error_loading">Error during rooms fetch</string>
+    <string name="main_room_empty">No events added to room</string>
+    <string name="main_room_loading">Loading rooms</string>
+    <string name="main_events_loading">Loading events</string>
+    <!-- New event -->
+    <string name="new_event_title">Add new event</string>
+    <string name="new_event_room">Room</string>
+    <string name="new_event_start_date">Start date</string>
+    <string name="new_event_start_time">Start time</string>
+    <string name="new_event_end_date">End date</string>
+    <string name="new_event_end_time">End time</string>
+    <string name="new_event_summary">Summary</string>
+    <string name="new_event_description">Description</string>
+    <string name="new_event_attendees">Attendees</string>
+    <string name="new_event_save">Save</string>
+    <string name="new_event_added">Event %1$s added to room: %2$s</string>
+    <string name="new_event_error">Can\'t add event to room</string>
+</resources>

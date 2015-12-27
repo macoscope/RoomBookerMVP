@@ -1,0 +1,16 @@
+{"event":
+  {
+    "id": "c7m64iummb105c158clvnit7g4",
+    "calendar_id": 1,
+    "start_date": "2015-11-24T12:30:14.000+01:00",
+    "end_date": "2015-11-24T13:28:46.000+01:00",
+    "organizer": "admin@organization.net",
+    "summary": "meeting 1",
+    "description": "details 1",
+    "status": "needsAction",
+    "attendees_emails": [
+      "organization.room_id@group.calendar.google.com",
+      "test@example.com"
+    ]
+  }
+}

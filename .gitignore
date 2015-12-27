@@ -1,0 +1,48 @@
+.gradle
+/local.properties
+
+/build
+/captures
+
+# Built application files
+*.apk
+*.ap_
+
+# Files for the Dalvik VM
+*.dex
+
+# Java class files
+*.class
+
+# Generated files
+bin/
+gen/
+
+# Gradle files
+.gradle/
+/*/build/
+
+# Android Studio
+*.iml
+.idea
+.idea/workspace.xml
+/.idea/workspace.xml
+/.idea/libraries
+
+# Local configuration file (sdk path, etc)
+local.properties
+
+# Log Files
+*.log
+
+app/obj/*
+app/libs/*
+
+# OSX files
+.DS_Store
+
+# Windows thumbnail db
+Thumbs.db
+
+# autocopied configuration file
+app/google-services.json

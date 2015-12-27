@@ -1,0 +1,130 @@
+{
+  "events": [
+    {
+      "id": "c7m64iummb105c158clvnit7g4",
+      "calendar_id": 1,
+      "start_date": "2015-11-24T12:30:14.000+01:00",
+      "end_date": "2015-11-24T13:28:46.000+01:00",
+      "organizer": "admin@organization.net",
+      "summary": "meeting 1",
+      "description": "details 1",
+      "status": "needsAction",
+      "attendees_emails": [
+        "organization.room_id@group.calendar.google.com",
+        "test@example.com"
+      ]
+    },
+    {
+      "id": "7s1lquraue3j7becv4d5ilum88",
+      "calendar_id": 1,
+      "start_date": "2015-11-24T12:30:14.000+01:00",
+      "end_date": "2015-11-24T13:28:46.000+01:00",
+      "organizer": "admin@organization.net",
+      "summary": "meeting 2",
+      "description": "details 2",
+      "status": "needsAction",
+      "attendees_emails": [
+        "test@example.com",
+        "organization.room_id@group.calendar.google.com"
+      ]
+    },
+    {
+      "id": "p5lu5tb3sromju0219n49quhpk",
+      "calendar_id": 1,
+      "start_date": "2015-12-02T19:04:50.000+01:00",
+      "end_date": "2015-12-02T20:04:57.000+01:00",
+      "organizer": "admin@organization.net",
+      "summary": "meeting 3",
+      "description": "details 3",
+      "status": "accepted",
+      "attendees_emails": [
+        "organization.room_id@group.calendar.google.com",
+        "test@example.com"
+      ]
+    },
+    {
+      "id": "c3g1crm8pddb9udc0js2kbjjd4",
+      "calendar_id": 1,
+      "start_date": "2015-12-02T19:04:50.000+01:00",
+      "end_date": "2015-12-02T20:04:57.000+01:00",
+      "organizer": "admin@organization.net",
+      "summary": "meeting 4",
+      "description": "details 4",
+      "status": "declined",
+      "attendees_emails": [
+        "organization.room_id@group.calendar.google.com",
+        "test@example.com"
+      ]
+    },
+    {
+      "id": "agmsttp5fre2hionln5d3g9hm8",
+      "calendar_id": 1,
+      "start_date": "2015-12-02T20:16:10.000+01:00",
+      "end_date": "2015-12-02T21:16:20.000+01:00",
+      "organizer": "admin@organization.net",
+      "summary": "meeting 5",
+      "description": "details 5",
+      "status": "accepted",
+      "attendees_emails": [
+        "test@organization.com",
+        "organization.room_id@group.calendar.google.com"
+      ]
+    },
+    {
+      "id": "eim42655i51ina6pj6kg2mcmts",
+      "calendar_id": 1,
+      "start_date": "2015-12-02T20:16:10.000+01:00",
+      "end_date": "2015-12-02T21:16:20.000+01:00",
+      "organizer": "admin@organization.net",
+      "summary": "meeting 6",
+      "description": "details 6",
+      "status": "declined",
+      "attendees_emails": [
+        "test@organization.com",
+        "organization.room_id@group.calendar.google.com"
+      ]
+    },
+    {
+      "id": "0ukadkpbqt37sjqlecf24sm3bc",
+      "calendar_id": 1,
+      "start_date": "2015-12-03T20:16:10.000+01:00",
+      "end_date": "2015-12-03T21:16:20.000+01:00",
+      "organizer": "admin@organization.net",
+      "summary": "meeting 7",
+      "description": "details 7",
+      "status": "accepted",
+      "attendees_emails": [
+        "test@organization.com",
+        "organization.room_id@group.calendar.google.com"
+      ]
+    },
+    {
+      "id": "64bj56t746ti5bju538o4n99s0",
+      "calendar_id": 1,
+      "start_date": "2015-12-03T10:34:00.000+01:00",
+      "end_date": "2015-12-03T12:34:00.000+01:00",
+      "organizer": "admin@organization.net",
+      "summary": "meeting 8",
+      "description": "details 8",
+      "status": "accepted",
+      "attendees_emails": [
+        "organization.room_id@group.calendar.google.com",
+        "test@example.com"
+      ]
+    },
+    {
+      "id": "3lc2vph3cqe19b540kl80gjbcs",
+      "calendar_id": 1,
+      "start_date": "2015-12-03T10:34:00.000+01:00",
+      "end_date": "2015-12-03T12:34:00.000+01:00",
+      "organizer": "admin@organization.net",
+      "summary": "meeting 9",
+      "description": "details 9",
+      "status": "declined",
+      "attendees_emails": [
+        "test@example.com",
+        "organization.room_id@group.calendar.google.com"
+      ]
+    }
+  ]
+}

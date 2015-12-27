@@ -1,0 +1,41 @@
+{
+  "users": [
+    {
+      "name": "Administrator",
+      "emails": [
+        "admin@example.com",
+        "admin@example.net",
+        "admin@example.org",
+        "admin@example.info"
+      ]
+    },
+    {
+      "name": "Boss",
+      "emails": [
+        "boss@example.com",
+        "boss@example.net",
+        "boss@example.org",
+        "boss@example.info"
+      ]
+    },
+    {
+      "name": "John Doe",
+      "emails": [
+        "john.doe@example.com",
+        "john.doe@example.net",
+        "john.doe@example.org",
+        "john.doe@example.info"
+      ]
+    },
+    {
+      "name": "Richard Roe",
+      "emails": [
+        "richard.roe@example.com",
+        "richard.roe@example.net",
+        "richard.roe@example.org",
+        "richard.roe@example.info"
+      ]
+    }
+​
+  ]
+}
